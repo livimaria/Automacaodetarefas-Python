@@ -4,4 +4,4 @@ Esse é um código simples que trata a automação de tarefas, utilizando a ling
 
 ## **Linguagem usada:**
 
-- Pyhton
+- Python
